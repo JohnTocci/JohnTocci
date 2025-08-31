@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**JohnTocci/JohnTocci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial Controller using Python and SQL to automate FP&A, reconciliations, and executive reporting.
 
-Here are some ideas to get you started:
+- Current focus: Building reliable data pipelines and dashboards that close the books faster.
+- Tools: Python (pandas), SQL, Power BI/Tableau, Excel.
+- Interests: Forecasting, variance analysis, data quality checks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlight Projects
+- Month-End Close Automation — ETL + reconciliations + CFO dashboard.
+- Driver-Based Forecast Model — time series + scenario analysis.
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/johnftocci/
